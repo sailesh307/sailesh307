@@ -2,7 +2,7 @@
 
 - 😎 I’m Sailesh, student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)
 - ✨ Currently i am Project intern @ Samsung Prism
-- ✨ I'm a 3-Star Coder at CODE-CHEF
+- ✨ I'm a 3⭐ Coder at CODECHEF
 - 👀 I’m interested in machinne learning and android based projects
 - 📫 sailesh953@gmail.com
 <a href = "https://www.linkedin.com/in/sailesh-kumar-579b641b0/">
