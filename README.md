@@ -5,6 +5,7 @@
 - ✨ I'm a 3⭐ Coder at CODECHEF
 - 👀 I’m interested in machinne learning and android based projects
 - 📫 sailesh953@gmail.com
+- ✨if you [want to learn github](https://github.com/sailesh307/GitHubTutorial)
 <a href = "https://www.linkedin.com/in/sailesh307/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
