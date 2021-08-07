@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sailesh</h1>
 
 - 😎 I’m Sailesh, student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)
 - ✨ Currently i am Project intern @ Samsung (SRI-B)
@@ -8,12 +8,7 @@
 - ✨if you want to learn how to upload files to github 👉[Let's Start](https://github.com/sailesh307/GitHubTutorial)
 
 
-<a href = "https://www.linkedin.com/in/sailesh307/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<!-- TO view Profile view -->
-![](https://komarev.com/ghpvc/?username=sailesh307&color=green&label=Profile+Views)
 
 <!-- TECH STACK -->
 
@@ -41,3 +36,19 @@
 sailesh307/sailesh307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Connect with me
+<p align="left">
+  <a href = "https://www.linkedin.com/in/sailesh307" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="sailesh307" height="20px" width="80px"/>
+  </a>
+</p>
+
+### Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sailesh307&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh307" /> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sailesh307&show_icons=true&locale=en&layout=compact" alt="sailesh307" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sailesh307&show_icons=true&locale=en" alt="sailesh307" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sailesh307&" alt="sailesh307" /></p>
