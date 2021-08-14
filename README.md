@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sailesh</h1>
 
 - 😎 Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)
-- ✨ Currently i am Project intern @ Samsung (SRI-B)
+- ✨ Currently i am Research intern @ Samsung (SRI-B)
 - ✨ I'm a 3⭐ Coder at CODECHEF
 - 👀 I’m interested in machinne learning and android based projects
 - 📫 sailesh953@gmail.com
