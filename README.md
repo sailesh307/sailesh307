@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sailesh</h1>
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
 - 😎 Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)
@@ -52,11 +52,9 @@
 
 <details align="left">
   <summary>Click for More Stats 📈</summary>
-  <p>
-     
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=sailesh307&show_icons=true&locale=en&layout=compact" alt = "Top Languages"><br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=sailesh307&theme=default&align=center" alt = "Streeks"><br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=sailesh307&show_icons=true" alt = "Sailesh Kumar's GitHub stats">
+  <p align="left">
+  <img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=sailesh307&theme=default&align=center" alt = "Streeks">
+  <img width="49%" src = "https://github-readme-stats.vercel.app/api?username=sailesh307&show_icons=true" alt = "Sailesh Kumar's GitHub stats">
      
   </p>
 </details>
