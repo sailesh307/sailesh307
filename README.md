@@ -1,18 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sailesh</h1>
 
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 - 😎 Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)
 - ✨ Currently i am Research intern @ Samsung (SRI-B)
 - ✨ I'm a 3⭐ Coder at CODECHEF
 - 👀 I’m interested in machinne learning and android based projects
 - 📫 sailesh953@gmail.com
-- ✨if you want to learn how to upload files to github 👉[Let's Start](https://github.com/sailesh307/GitHubTutorial)
+- ✨ If you want to learn how to upload files to github 👉[Let's Start](https://github.com/sailesh307/GitHubTutorial)
 
 
-
+---
 
 <!-- TECH STACK -->
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack 
 
 <!-- languages -->
 
@@ -30,24 +34,44 @@
   <img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width:100%;">
   <img src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width:100%;">
 
-<!-- Connect with Me -->
-### Connect with me
-<p align="left">
-  <a href = "https://www.linkedin.com/in/sailesh307" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="sailesh307" height="20px" width="80px"/>
-  </a>
-</p>
+---
 
+<!-- Connect with Me -->
+### Connect with me 🤝
+
+   <a href="https://www.linkedin.com/in/sailesh307/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a>
+   <a href="https://www.instagram.com/sailesh307/"><img src="https://user-images.githubusercontent.com/57597700/115221558-6ed23b00-a127-11eb-90cf-c330432b48e3.png" width=30></a>
+   <a href="https://github.com/sailesh307"><img src="https://user-images.githubusercontent.com/57597700/115221750-9e814300-a127-11eb-87ad-9829817b7a36.png" width=30></a>
+   <a href="mailto: sailesh953@gmail.com"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30></a>
+
+---
+<!-- Stats -->
 ### Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailesh307&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh307" /> </p>
 
+<details align="left">
+  <summary>Click for More Stats 📈</summary>
+  <p>
+     
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=sailesh307&show_icons=true&locale=en&layout=compact" alt = "Top Languages"><br>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=sailesh307&theme=default&align=center" alt = "Streeks"><br>
+  <img src = "https://github-readme-stats.vercel.app/api?username=sailesh307&show_icons=true" alt = "Sailesh Kumar's GitHub stats">
+     
+  </p>
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sailesh307&show_icons=true&locale=en&layout=compact" alt="sailesh307" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sailesh307&" alt="sailesh307" /></p>
+<!-- Activity Graph -->
 
-
+<details align="left">
+  <summary>GitHub Activity Graph 📈</summary>
+<p>
+     
+  ![Sailesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sailesh307&theme=dracula)
+     
+</p>
+</details>
 
 <!---
 sailesh307/sailesh307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
