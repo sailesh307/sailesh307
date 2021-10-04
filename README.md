@@ -50,7 +50,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailesh307&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh307" /> </p>
 
-<details align="center">
+<details>
   <summary>More Stats 📈</summary>
   <p align="left">
   <img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=sailesh307&theme=default&align=center" alt = "Streeks">
@@ -62,7 +62,7 @@
 
 <!-- Activity Graph -->
 
-<details align="center">
+<details>
   <summary>GitHub Activity Graph 📈</summary>
 <p>
      
