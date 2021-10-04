@@ -66,7 +66,7 @@
   <summary>GitHub Activity Graph 📈</summary>
 <p>
      
-  ![Sailesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sailesh307&theme=dracula)
+  ![Sailesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sailesh307&theme=default)
      
 </p>
 </details>
