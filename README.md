@@ -60,8 +60,11 @@
   <p align="left">
   <img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=sailesh307&theme=default&align=center" alt = "Streeks">
   <img width="49%" src = "https://github-readme-stats.vercel.app/api?username=sailesh307&show_icons=true" alt = "Sailesh Kumar's GitHub stats">
-     
+    
   </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sailesh307&hide=jupyter notebook&show_icons=true&locale=en&layout=compact" alt="sailesh307" />
+</p>
 </details>
 
 
