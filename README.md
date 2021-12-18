@@ -50,6 +50,19 @@
    <a href="mailto: sailesh953@gmail.com"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30></a>
 
 ---
+
+### Projects
+
+| S.No | Project Name | tags |Link |
+| ---  | ------------ | ---- | --- |
+| 1    | Smart City Traveller | `android`, `API` |[link](https://github.com/sailesh307/Smart-City-Traveller)
+| 2    | Weather App          | `android`, `API` |[link](https://github.com/sailesh307/Weather-App)
+| 3    | Space War Game       | `andoid` |[link](https://github.com/sailesh307/space-war-game)
+| 4    | SMS encryption app   | `andoid` |[link](https://github.com/sailesh307/sms-encryption-app)
+| 5    | MBTI Personality predictor | `Machine Learning` |[link](https://github.com/sailesh307/Personality-Prediction-Using-MBTI)
+
+
+
 <!-- Stats -->
 ### Stats
 
