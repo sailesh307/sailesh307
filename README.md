@@ -25,6 +25,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" style="max-width:100%;">
   <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" style="max-width:100%;">
   <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" style="max-width:100%;">
+  <img alt="SQL" src="https://img.shields.io/badge/-Sql-05122A?style=flat&amp;logo=Oracle" style="max-width:100%;">
   
 </br>
 
@@ -32,6 +33,7 @@
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width:100%;">
 <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" style="max-width:100%;">
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width:100%;">
+<img alt="Ux/Ui" src="https://img.shields.io/badge/-UX/Ui-05122A?style=flat&amp;logo=AdobeXd" style="max-width:100%;">
 
 </br>
 
