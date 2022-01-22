@@ -25,19 +25,21 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" style="max-width:100%;">
   <img alt="SQL" src="https://img.shields.io/badge/-Sql-05122A?style=flat&amp;logo=Oracle" style="max-width:100%;">
 </br>
-<!-- <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width:100%;">
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width:100%;"> -->
-<img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05122A?style=flat&amp;logo=Flutter" style="max-width:100%;">
-<!-- <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" style="max-width:100%;">
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width:100%;"> -->
-<img alt="Ux/Ui" src="https://img.shields.io/badge/-UX/Ui-05122A?style=flat&amp;logo=AdobeXd" style="max-width:100%;">
+  <!-- <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width:100%;">
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width:100%;"> -->
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05122A?style=flat&amp;logo=Flutter" style="max-width:100%;">
+  <!-- <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" style="max-width:100%;">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width:100%;"> -->
+  <img alt="Ux/Ui" src="https://img.shields.io/badge/-UX/Ui-05122A?style=flat&amp;logo=AdobeXd" style="max-width:100%;">
+</p>
 
 ---
 
 ### ⚙️ My Tools 
 
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC">
-<img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-05122A.svg?&amp;logo=android-studio">
+<p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC">
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-05122A.svg?&amp;logo=android-studio">
 </p>
 
 ---
