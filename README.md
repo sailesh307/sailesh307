@@ -5,9 +5,9 @@
 
 
 - 😎 Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)
-- ✨ Currently i am Research intern @ Samsung (SRI-B)
+- ✨ Ex-Research intern @ Samsung R&D
 - ✨ I'm a 3⭐ Coder at CODECHEF
-- 👀 I’m interested in machinne learning and android based projects
+- 👀 I’m interested in android based projects
 - 📫 sailesh953@gmail.com
 - ✨ If you want to learn how to upload files to github 👉[Let's Start](https://github.com/sailesh307/GitHubTutorial)
 
@@ -18,17 +18,13 @@
 
 ### 🛠 Tech Stack 
 
-<!-- languages -->
-
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" style="max-width:100%;">
   <img alt="C++" src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" style="max-width:100%;">
   <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" style="max-width:100%;">
   <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" style="max-width:100%;">
   <img alt="SQL" src="https://img.shields.io/badge/-Sql-05122A?style=flat&amp;logo=Oracle" style="max-width:100%;">
-  
 </br>
-
 <!-- <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width:100%;">
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width:100%;"> -->
 <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05122A?style=flat&amp;logo=Flutter" style="max-width:100%;">
@@ -36,16 +32,18 @@
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width:100%;"> -->
 <img alt="Ux/Ui" src="https://img.shields.io/badge/-UX/Ui-05122A?style=flat&amp;logo=AdobeXd" style="max-width:100%;">
 
-</br>
+---
 
+### ⚙️ My Tools 
+
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC">
 <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-05122A.svg?&amp;logo=android-studio">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width:100%;">
 </p>
 
 ---
 
 <!-- Connect with Me -->
-### Connect with me 🤝
+### 🤝 Connect with me 
 
    <a href="https://www.linkedin.com/in/sailesh307/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a>
    <a href="https://www.instagram.com/sailesh307/"><img src="https://user-images.githubusercontent.com/57597700/115221558-6ed23b00-a127-11eb-90cf-c330432b48e3.png" width=30></a>
@@ -54,7 +52,7 @@
 
 ---
 
-### Projects
+### ⚒️ Projects
 
 | S.No | Project Name | tags | Video Link |Code Link |
 | ---  | ------------ | ---- | --- |--- |
@@ -67,7 +65,9 @@
 
 
 <!-- Stats -->
-### Stats
+
+---
+### 📈 Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sailesh307&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh307" /> </p>
 
