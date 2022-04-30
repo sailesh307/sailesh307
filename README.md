@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sailesh</h1>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sailesh307&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh307" /> </p>
+
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
@@ -71,28 +73,21 @@
 ---
 ### 📈 Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sailesh307&label=Profile%20views&color=0e75b6&style=flat" alt="sailesh307" /> </p>
-
-<details open>
-  <summary>More Stats 📈</summary>
-  <p align="left">
-  <img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=sailesh307&theme=default&align=center" alt = "Streeks">
-  <img width="49%" src = "https://github-readme-stats.vercel.app/api?username=sailesh307&show_icons=true" alt = "Sailesh Kumar's GitHub stats">
-    
-  </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sailesh307&hide=jupyter notebook&show_icons=true&locale=en&layout=compact" alt="sailesh307" />
+<p align="left">
+  <img width="49%" src = "https://github-readme-streak-stats.herokuapp.com/?user=sailesh307&theme=dark&align=center" alt = "Streeks">
+  <img width="49%" src = "https://github-readme-stats.vercel.app/api?username=sailesh307&theme=dark&show_icons=true" alt = "Sailesh Kumar's GitHub stats">
 </p>
-</details>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sailesh307&theme=dark&hide=jupyter notebook&show_icons=true&locale=en&layout=compact" alt="sailesh307" />
+</p>
 
 <!-- Activity Graph -->
 
-<details>
+<!-- <details> -->
   <summary>GitHub Activity Graph 📈</summary>
 <p>
      
-  ![Sailesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sailesh307&theme=default)
+  ![Sailesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sailesh307&theme=react-dark)
      
 </p>
 </details>
