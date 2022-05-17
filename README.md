@@ -33,6 +33,8 @@
   <!-- <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" style="max-width:100%;">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width:100%;"> -->
   <img alt="Ux/Ui" src="https://img.shields.io/badge/-UX/Ui-05122A?style=flat&amp;logo=AdobeXd" style="max-width:100%;">
+</br>
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&amp;logo=Firebase" style="max-width:100%;">
 </p>
 
 ---
@@ -42,6 +44,7 @@
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-05122A.svg?&amp;logo=android-studio">
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-05122A.svg?&amp;logo=adobe-XD">
 </p>
 
 ---
@@ -60,11 +63,12 @@
 
 | S.No | Project Name | tags | Video Link |Code Link |
 | ---  | ------------ | ---- | --- |--- |
-| 1    | Smart City Traveller | `android`, `API` | [video](https://youtu.be/a3OAVr1kiqc) |[link](https://github.com/sailesh307/Smart-City-Traveller)
-| 2    | Weather App          | `android`, `API` | [video](https://youtu.be/alD0hfXQEm4) |[link](https://github.com/sailesh307/Weather-App)
-| 3    | Space War Game       | `andoid` ||[link](https://github.com/sailesh307/space-war-game)
-| 4    | SMS encryption app   | `andoid` ||[link](https://github.com/sailesh307/sms-encryption-app)
-| 5    | MBTI Personality predictor | `Machine Learning` ||[link](https://github.com/sailesh307/Personality-Prediction-Using-MBTI)
+| 1    | Appointment booking & Health App | `cross-platform`, `Flutter` | 
+| 2    | Smart City Traveller | `android`, `API` | [video](https://youtu.be/a3OAVr1kiqc) |[link](https://github.com/sailesh307/Smart-City-Traveller)
+| 3    | Weather App          | `android`, `API` | [video](https://youtu.be/alD0hfXQEm4) |[link](https://github.com/sailesh307/Weather-App)
+| 4    | Space War Game       | `andoid` ||[link](https://github.com/sailesh307/space-war-game)
+| 5    | SMS encryption app   | `andoid` ||[link](https://github.com/sailesh307/sms-encryption-app)
+| 6    | MBTI Personality predictor | `Machine Learning` ||[link](https://github.com/sailesh307/Personality-Prediction-Using-MBTI)
 
 
 
