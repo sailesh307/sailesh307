@@ -25,6 +25,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" style="max-width:100%;">
   <img alt="Java" src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" style="max-width:100%;">
   <img alt="Python" src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" style="max-width:100%;">
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-05122A?style=flat&amp;logo=dart" style="max-width:100%;">
   <img alt="SQL" src="https://img.shields.io/badge/-Sql-05122A?style=flat&amp;logo=Oracle" style="max-width:100%;">
 </br>
   <!-- <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width:100%;">
