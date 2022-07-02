@@ -62,9 +62,9 @@
 
 ### ⚒️ Projects
 
-| S.No | Project Name | tags | Video Link |Code Link |
+| S.No | Project Name | tags | Demo Link |Code Link |
 | ---  | ------------ | ---- | --- |--- |
-| 1    | Appointment booking & Health App | `cross-platform`, `Flutter` | 
+| 1    | Health App | `cross-platform`, `Flutter` | [Website](https://sailesh307.github.io/HealthApp/) | [link](https://github.com/sailesh307/health_app)
 | 2    | Smart City Traveller | `android`, `API` | [video](https://youtu.be/a3OAVr1kiqc) |[link](https://github.com/sailesh307/Smart-City-Traveller)
 | 3    | Weather App          | `android`, `API` | [video](https://youtu.be/alD0hfXQEm4) |[link](https://github.com/sailesh307/Weather-App)
 | 4    | Space War Game       | `andoid` ||[link](https://github.com/sailesh307/space-war-game)
