@@ -83,7 +83,7 @@
   <img width="49%" src = "https://github-readme-stats.vercel.app/api?username=sailesh307&theme=dark&show_icons=true" alt = "Sailesh Kumar's GitHub stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sailesh307&theme=dark&hide=jupyter notebook&show_icons=true&locale=en&layout=compact" alt="sailesh307" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sailesh307&theme=dark&hide=jupyter notebook,javascript&show_icons=true&locale=en&layout=compact" alt="sailesh307" />
 </p>
 
 <!-- Activity Graph -->
