@@ -30,12 +30,14 @@
   <!-- <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width:100%;">
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width:100%;"> -->
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05122A?style=flat&amp;logo=Flutter" style="max-width:100%;">
-  <img alt="Flutter" src="https://img.shields.io/badge/-React_Native-05122A?style=flat&amp;logo=React" style="max-width:100%;">
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-05122A?style=flat&amp;logo=React" style="max-width:100%;">
+  <img alt="Spring boot" src="https://img.shields.io/badge/-Spring Boot-05122A?style=flat&amp;logo=Spring Boot" style="max-width:100%;">
+ 
   <!-- <img alt="Git" src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" style="max-width:100%;">
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" style="max-width:100%;"> -->
 </br>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&amp;logo=Firebase" style="max-width:100%;">
-  <img alt="Firebase" src="https://img.shields.io/badge/-My SQL-05122A?style=flat&amp;logo=oracle" style="max-width:100%;">
+  <img alt="My SQL" src="https://img.shields.io/badge/-My SQL-05122A?style=flat&amp;logo=oracle" style="max-width:100%;">
 </p>
 
 ---
