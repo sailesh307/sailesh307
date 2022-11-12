@@ -8,6 +8,7 @@
 
 - 😎 Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)
 - ✨ Ex-Research intern @ Samsung R&D
+- ✨ I'm Knight at LeetCode
 - ✨ I'm a 4⭐ Coder at CODECHEF
 - 👀 I’m interested in android based projects
 - 📫 sailesh953@gmail.com
