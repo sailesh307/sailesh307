@@ -10,7 +10,7 @@
 - ✨ Ex-Research intern @ Samsung R&D
 - ✨ I'm Knight at LeetCode
 - ✨ I'm a 4⭐ Coder at CODECHEF
-- 👀 I’m interested in android based projects
+- 👀 Currently working with MERN stack
 - 📫 sailesh953@gmail.com
 - ✨ If you want to learn how to upload files to github 👉[Let's Start](https://github.com/sailesh307/GitHubTutorial)
 
