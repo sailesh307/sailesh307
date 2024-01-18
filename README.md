@@ -31,6 +31,7 @@
 </br>
   <img alt="React" src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" style="max-width:100%;">
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-05122A?style=flat&amp;logo=Flutter" style="max-width:100%;">
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&amp;logo=Tailwindcss" style="max-width:100%;">
 </br>  
   <img alt="MongoDb" src="https://img.shields.io/badge/-MongoDb-05122A?style=flat&amp;logo=mongoDb" style="max-width:100%;">
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-05122A?style=flat&amp;logo=Firebase" style="max-width:100%;">
