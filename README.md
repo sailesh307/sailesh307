@@ -62,7 +62,6 @@
 ### 🤝 Connect with me 
 
    <a href="https://www.linkedin.com/in/sailesh307/"><img src="https://user-images.githubusercontent.com/57597700/115221409-434f5080-a127-11eb-8605-0de27d8ee0e7.png" width=30></a>
-   <a href="https://www.instagram.com/sailesh307/"><img src="https://user-images.githubusercontent.com/57597700/115221558-6ed23b00-a127-11eb-90cf-c330432b48e3.png" width=30></a>
    <a href="https://github.com/sailesh307"><img src="https://user-images.githubusercontent.com/57597700/115221750-9e814300-a127-11eb-87ad-9829817b7a36.png" width=30></a>
    <a href="mailto: sailesh953@gmail.com"><img src="https://user-images.githubusercontent.com/57597700/115959649-e559a900-a52a-11eb-9cf5-3659573b814b.png" width=30></a>
 
